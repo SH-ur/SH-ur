@@ -13,13 +13,13 @@ Bueno, realmente pienso mejorar mis habilidades para poder contribuir en los ám
 
 ### ¿Qué tecnologías uso?
 Durante el BootCamp de Henry mis principales habilidades que desarrollé fueron alrededor de:
- — React.js
- — Redux
- — JavaScript
- — Express
- — Node Js
- — PostgreSQl
- — HTML y CSS (en progreso XD)
+  React.js |
+  Redux
+ | JavaScript
+ | Express
+ | Node Js
+ | PostgreSQl
+ | HTML y CSS (éstos últimos en desarrollo)
 
  Si la vida me da oportunidades, yo he de programar para ver un mejor futuro, por lo que si estás interesado en algo que desarrollo o quieres que intercambiemos ideas...
 ### No dudes en contactarme!
